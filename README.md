@@ -23,3 +23,5 @@ Kullanılan Teknolojiler
 HTML5
 CSS3
 SCSS
+
+![](https://github.com/omergzlaydn/medcareApp/blob/main/image/medcare.gif)
